@@ -6,6 +6,11 @@ ENV/
 .env/
 
 # Python virtual environment directories
+venv/
+env/
+ENV/
+.venv/
+.env/
 Lib/
 Scripts/
 share/
@@ -34,6 +39,9 @@ wheels/
 .installed.cfg
 *.egg
 MANIFEST
+
+# Project directories
+python/projects/
 
 # PyInstaller
 *.manifest
@@ -120,5 +128,3 @@ Thumbs.db
 *.temp
 desktop.ini
 $RECYCLE.BIN/
-# Project directories
-python/projects/
