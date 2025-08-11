@@ -120,3 +120,5 @@ Thumbs.db
 *.temp
 desktop.ini
 $RECYCLE.BIN/
+# Project directories
+python/projects/
