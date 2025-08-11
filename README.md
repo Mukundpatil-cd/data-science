@@ -37,6 +37,7 @@ This repo will grow over time as I explore Machine Learning, Deep Learning, NLP,
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mukund-patil-423024316)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukund-patil-423024316)
+
 
 
