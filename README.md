@@ -11,19 +11,6 @@ This project is a personal record of my journey to becoming a Data Scientist , s
 
 **Tools:** Jupyter Notebook / VS Code
 
-
-##  About This Repository
-Here, I document:
-
-- My progress in learning Data Science concepts.
-
-- Step-by-step project implementations.
-
-- Insights, mistakes, and lessons learned along the way.
-
-This repo will grow over time as I explore Machine Learning, Deep Learning, NLP, and more advanced topics.
-
-
 ##  About This Repository
 Here, I document:
 
