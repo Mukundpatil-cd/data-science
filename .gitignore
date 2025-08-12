@@ -128,3 +128,18 @@ Thumbs.db
 *.temp
 desktop.ini
 $RECYCLE.BIN/
+
+# Python venv ignore
+venv/
+env/
+.venv/
+
+# Cache files ignore
+__pycache__/
+*.pyc
+
+# VS Code settings ignore
+.vscode/
+
+# Node modules ignore
+node_modules/
