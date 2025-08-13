@@ -41,7 +41,7 @@ wheels/
 MANIFEST
 
 # Project directories
-python/projects/
+
 
 # PyInstaller
 *.manifest
